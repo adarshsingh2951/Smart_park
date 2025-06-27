@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sigma-future-460611-u4",
+  "private_key_id": "d5f441e0ed23a8e74120749a04026953e411f118",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8fuDfq46h0m/H\noXRapqL0+DJbn965ZCEKp0GiSWXmjaeLCJVKir+e3yvD7nd/zpsyF4ATQ2j2Kn+X\nU1ZoGpRIpJ7SdogElRe4/TV4WsYjlxReIoRzHYYfhvF0Cfr629DyGFCZIkDRajy5\neoD3xd6PMTkka2VqNv0ia4j/dJaqloYUEM72/69bF7zn7Z+n8jZdKWM5XBjLL0xC\nvCgnWDvjaN+jEnF3u5o2iiD2Nn19Jj9m2x/jy3MXeyUNCxxal1tANemF612f+P0R\nkvA/SPoU6ZZufTA6hvL1uEsT9RVoNo8TH/UOPGi6dR5M9/sr9Xv1uoDi4SLZrgZB\nFnU1LbQxAgMBAAECggEABaWh8EV8GYw7wc3sFdKn72GXpZ/PnPt7U23BFT7wbPSp\ntCw6x7/KH5T1Q1KLtTIf+2NRmJIkjPpnNeX+4NHKBzaaVPkM2GFMk4PPdCZ5COQr\n7amIUQgNhniFF4o8gQMwmm4gzQOmEDgH73EUd8fPY/gQK4+Fm2XgFcXFtgx8vonE\nVbxbbV6i/NC1lPR7waY8DNF6ssxhh/WQUJLOSyqWzdeF1gbqe/JlPJHi0bvzPPMw\nLXHnTYDLSRVJz3P9Z+uucDONYRtsdZ4qZaR88L6utPw0yWkXXfdpmaZJQIZSdIbU\n+0nn0NVkM0xO7n3C5caNAFzsFRzEjX8D4nvQ/dT/QQKBgQD/Av2NGor8yyeZvfBr\nT1fa8DU7NgrOFhANsUwpXpZgT198sY/TjBDK4CZuHvsmDI3q90KdrsXXDpe/60xt\nJshUN2xrWPc04Iu+/kT+TeDV/CGBECluPu5f9tdLOpQwS0drQQpD0L7NB8krxPlF\nuyCm9XcHaKXegmxdbfzeNwRiYQKBgQC9OeTmRE0kuRURGaZGAzuWkNr9Qiudn1GS\nKU6iIYzgEcDFGkGReFrf5rZxrhu1uSIArVLhwsolzivrucU43vKPazsl2YgCmpvF\nzSu9dtOJsiUpQPDOYN7tDYedet7NoV7hkWUA3BBjQ6U4AU/XOP/jmXJOn9Gp+eww\nhpnxhxpD0QKBgFLLh8LuYT3eP8c80fglVKLy5nWJAE0VALVRYSb1XOF8I8Z6Z/YJ\nPdKAoDmUuXoLDXDCQtCrU/SU+lQHc1LlCpm9POhFhE2Ysgaay4+9fUg8iiw7MRho\nOkDSBeiY5lAfwNpjzY9jEO/EnV4mn8AyF1Hd1H2FToVF1yUmdrk3J6dBAoGAGDgE\nuAQd64lUzO9/fI6FXewEW03Qz0fI5PAshEvPAA7FoXSO19OTrfyVdU9XdJbRZ0zH\nwuVvgg81R+Jq/7BpUzniRCHnao3nShXMd19yC7mlT/Zj28ZCQgztQparVZ5FypEV\nYFrKLipGRzjDw0QkXDkTjESgTSUTudJAec1U60ECgYEAyB2P3L1npJbgT78fQ8S0\ng6kPBtzsdbQmr/bnJuaeSUB+zF9k17lHeTm6Uv4ouXXBXA1zpclpsNthzh2B4vzc\nEpDJ3oU0n/8rwP3Lk/roKgPchO3vza0eVyO2QyIsGXrMjKKphfHQqxPs5I48fhok\nz7fpZsrvNBffz4Kt/0BJM8E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-client@sigma-future-460611-u4.iam.gserviceaccount.com",
+  "client_id": "103042097298426504745",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-client%40sigma-future-460611-u4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
